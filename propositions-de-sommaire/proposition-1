@@ -1,0 +1,38 @@
+Outillage de base
+    Un éditeur de texte (gedit, notepad++)
+    Un compilateur (gcc, msvc)
+    Les deux en un (codeblock)
+Notion de bases
+    Préliminaires
+        Un programme minimal (main + commentaires)
+        Les variables entières (cases mémoire d'entier, affectation, type int)
+        Les opérations arithmétiques (+, -, *, /, %)
+        Affichage à l'écran (std::cout)
+        Types primitifs (double, char)
+        Récupérer une donnée de l'utilisateur (std::cin)
+    Faire des choix
+        Les opérations booléennes (&&, ||, !, true, false, table de vérité)
+        Branchement conditionelle (if et else)
+        Boucle (while)
+    Les fonctions
+        Découper son programme (à quoi ça sert, origine mathématique)
+        Calculer une valeur (fonction retournant une valeur mais sans prendre d'argument)
+        Portée d'une variable (scope)
+        Passage de paramètre par valeur
+    Mini-projet
+    Sucre syntaxique
+        Retour sur les opérations arithmétiques (++, --, +=, -=, /=, *=, %=)
+        Retour sur les conditions (else if)
+        Retour sur les boucles (for et dans une moindre mesure do-while (peut-être en tant qu'exercice))
+    Structures de données
+        Les enregistrements (struct)
+        Les tableaux (std::vector)
+        Les chaines de caractères (std::string)
+    Retour sur les types primitifs
+        La taille des types (short, long, float)
+        Type non signé (unsigned)
+        Type constant (const)
+    Retour sur les fonctions
+        Passage de paramètre par référence (& et const&)
+        Récursion
+    Mini-projet
