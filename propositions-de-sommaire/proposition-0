@@ -1,0 +1,165 @@
+Objectifs du cours
+Historique
+C++11
+C++14
+Débuter en C++
+    Un éditeur de texte
+    Un compilateur
+    Un débogueur
+    Un EDI (Environnement de Développement Intégré)
+    Le code minimum en C++
+    Débuter en CodeBlock
+    Débuter en Qt
+    Débuter en Visual Studio
+    Les bibliothèques
+    Qu'est-ce-que #include
+    Qu'est-ce-que #define
+    Qu'est-ce-que using namespace std
+    Les variables
+    Les types de variables
+        Déclarer une variable
+        Attribuer une valeur par défaut à une variable
+    Les références
+    Les entrées et sorties (cin et cout)
+        Afficher à l'écran
+        Lire au clavier
+    Les commentaires
+    Opérateurs de calcul
+    Manipulation des variables
+    Les tableaux
+        Les tableaux à une dimension
+        Les tableaux à deux dimensions
+        Les tableaux à n dimensions
+    Opérateurs de conditions
+        Si (if)
+        Sinon (else)
+        Sinon Si (else if)
+        Les boucles
+            for
+            while
+            do while
+            for each
+    Exercice
+    Les fonctions
+        Présentation d'une fonction
+        Les paramètres
+        Les retours de fonctions (return)
+        Les procédures (les fonctions sans type de retour)
+        Les fonctions avec type de retour
+        Les fonctions inlines
+        Les fonctions récursives
+        Passage par référence
+        Passer un tableau en paramètre
+        Exercice
+    Les fichiers headers
+    Les variables globales
+    Les pointeurs
+        Définition
+        Déclaration d'un pointeur
+        Allocation dynamique
+        Libérer la mémoire
+        Le nom d'un tableau est un pointeur
+        Plus loin avec les pointeurs
+    Les chaînes de caractères (string)
+        La structure d'un string
+        Manipuler les chaînes de caractères
+        Connaître le nombre de caractères
+        Savoir si la chaîne contient un caractère
+        Connaître l'occurrence d'un caractère
+        Insérer un caractère dans la chaîne
+        Comparer deux chaînes de caractères
+        Copier une chaîne dans une autre
+        Concaténer deux chaînes de caractères
+        Convertir un string en un nombre
+        Convertir un nombre en un string
+    Les fichiers
+        La libairie fstream
+        Ouvrir un fichier
+        Lire un fichier
+        Écrire dans un fichier
+        Manipulez le curseur dans un fichier ouvert
+        Avoir des informations sur un fichier
+    Les dates
+        La librairie ctime
+        Obtenir la date courante
+        Modifier la date
+        Valeur aléatoire
+    Manipulez les caractères (char)
+        La bibliothèque cctype
+        Savoir si un caractère est en majuscule ou en minuscule
+        Convertir une majuscule en minuscule (et vice-versa)
+        Savoir si un caractère et un chiffre
+    Les types énumération
+    Les exceptions
+    Les templates (template)
+    Les namespaces (namespace)
+    Créer un type personnalisé
+    Les expressions Lambdas
+    La cryptographie
+    La console DOS
+    Quelques fonctions mathématiques (cmath)
+    Base de donnée
+        Se connecter à une base de donnée
+        Effectuer des requêtes sur une BD
+        Les vues
+
+2ème Partie : Les structures de données
+    Définition
+    Généralité sur les structures de données
+        TAD List
+        TAD Queue
+        TAD Stack
+        Ajouter un élément dans une TAD (ADD)
+        Insérer un élément dans une TAD (INSERT)
+        Obtenir l'indice d'un élément (GET)
+        Savoir si un élément existe (CONTAINS)
+        Supprimer un élément dans une TAD (DELETE)
+    Les arbres binaires
+    Les structures en C++ (struct)
+    Les vecteurs (vector) en C++
+        Qu'est-ce-qu'un vecteur ?
+        Déclarer un vecteur
+        Ajouter un élément au début
+        Supprimer un élément à la fin
+        Accéder au premier élément
+        Parcourir le vecteur
+        Accéder au dernier élément
+    Les listes (list) en C++
+    Les deques (deque) en C++
+    Les piles (stack) en C++
+    Les files (queue) en C++
+    Les map en C++
+    Les itérateurs
+
+3ème Partie : Les classes (class)
+    Généralités
+    Pourquoi les classes ?
+    Les attributs
+    Les méthodes
+        Les méthodes privées (private)
+        Les méthodes publiques (public)
+        Les méthodes protégées (protected)
+    L'encapsulation
+    Un premier exercice
+    Les héritage en C++
+    Les sortes de méthodes
+        Les constructeurs
+        Les destructeurs
+        Les accesseurs
+        Les mutateurs
+        Les méthodes statiques (static)
+        Les méthodes virtuelles (virtual)
+        Les méthodes virtuelles pures (virtual const=0)
+        Les méthodes amies (friend)
+    Classe abstraite
+    Le masquage
+    
+    
+4ème Partie : C++ et réseaux
+    Se connecter à un réseau
+    Gérez les protocoles
+    La sécurité
+
+5ème Partie : Allez loin
+    Les processus
+    Gérer la sécurité
